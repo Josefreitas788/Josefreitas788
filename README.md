@@ -7,7 +7,6 @@
 
 <div>
   <a href="https://github.com/josefreitas788"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=josefreitas788&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefreitas788&theme=react&layout=compact&langs_count=6"/>
 </div>
 <br/>
