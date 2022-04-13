@@ -2,7 +2,7 @@
 
 ### Languages and Technologies:
 
-[![My Skills](https://skills.thijs.gg/icons?i=debian,java,php,postgres,py,vim,js,c,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=linux,java,php,postgres,py,vim,js,c,git)](https://skills.thijs.gg)
 
 
  
