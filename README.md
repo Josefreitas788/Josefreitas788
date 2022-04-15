@@ -1,6 +1,5 @@
 <div align="center">
 
-### Languages and Technologies:
 
 [![My Skills](https://skills.thijs.gg/icons?i=linux,java,php,postgres,py,vim,js,c,git)](https://skills.thijs.gg)
 
@@ -13,6 +12,6 @@
 </div>
 <br/>
   
-<div align="right">
+<div align="center">
     <a href="https://www.linkedin.com/in/josefreitas788/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
