@@ -1,13 +1,14 @@
 <div align="center">
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=linux,java,php,postgres,py,vim,js,c,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=go,java,php,postgres,py,js,cpp,neovim,docker,linux)](https://skills.thijs.gg)
 
 
  
 
 <div>
   <a href="https://github.com/josefreitas788"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josefreitas788&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefreitas788&theme=react&layout=compact&langs_count=6"/>
 </div>
 <br/>
