@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=go,py,nodejs,cpp,bash,mongodb,mysql,postgres,neovim,vscode,docker,linux,git,githubactions,postman&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=go,py,nodejs,bash,mongodb,mysql,postgres,neovim,vscode,docker,linux,git,postman&theme=dark)](https://skills.thijs.gg)
 
 
  
