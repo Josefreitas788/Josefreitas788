@@ -2,8 +2,6 @@
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=go,py,nodejs,bash,mongodb,mysql,postgres,neovim,vscode,docker,linux,git,postman&theme=light)](https://skills.thijs.gg)
-
-
  
 
 <div>
