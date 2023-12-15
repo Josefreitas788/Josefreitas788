@@ -1,3 +1,4 @@
+
 <div align="center">
 
 
@@ -5,11 +6,14 @@
  
 
 <div>
-  <a href="https://github.com/josefreitas788"/>
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefreitas788&theme=dark&layout=compact&langs_count=6"/>
+
+<div>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=josefreitas788&theme=dark&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefreitas788&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true"/>
 </div>
-<br/>
-  
-<!-- <div align="center">
-    <a href="https://www.linkedin.com/in/josefreitas788/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
-</div>
+<!--
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=josefreitas788&theme=radical&no-frame=false&no-bg=false)
+-->
+
+ 
