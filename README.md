@@ -2,7 +2,7 @@
 <div align="justify">
 
 <blockquote>
-  <p>People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones</p>
+  <p>People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.</p>
   <cite>— Donald Knuth</cite>
 </blockquote>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josefilo&include_all_commits=true&count_private=true&theme=transparent"/>
